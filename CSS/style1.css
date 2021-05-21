@@ -1,0 +1,68 @@
+body{
+    background: #C1B7BB;
+}
+
+
+.menyja {
+    width: 100%;
+    
+    border: lawngreen; 
+    
+    padding: 10px 15px 10px 150px;
+    background: #8A8386; 
+    font-size: 20px; }
+
+.menyja a { 
+    font-size: 25px;
+    
+    color:black;
+    padding-right: 60px;
+}
+
+.menyja a:hover {
+    
+    color: silver;
+}
+
+.post3 {
+    
+    
+    filter: drop-shadow(2px 4px 6px black);
+    padding: 40px 15px 15px 95px;
+    border-radius: 25px;
+    width: 1000px;
+ 
+}
+
+body h3{
+    font-size: 25px;
+    padding:  1px 1px 1px 91px;
+
+}
+
+body p{
+     font-size: 25px;
+    padding:  1px 1px 1px 91px; 
+}
+
+   table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+padding: 1px 1px 15px 3px;
+}
+th {
+  text-align: center;
+}
+
+table {
+  width: 1000px;
+}
+
+th {
+  height: 70px;
+}
+
+td{ 
+    text-align: center;
+}
+

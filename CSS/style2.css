@@ -1,0 +1,60 @@
+body{
+    background: #C1B7BB;
+}
+
+
+.menyja {
+    width: 100%;
+    
+    border: lawngreen; 
+    
+    padding: 10px 15px 10px 150px;
+    background: #8A8386; 
+    font-size: 20px; }
+
+.menyja a { 
+    font-size: 25px;
+    
+    color:black;
+    padding-right: 60px;
+}
+
+.menyja a:hover {
+    
+    color: silver;
+}
+
+
+fieldset { 
+    background: #e1eff2;
+}
+
+legend { padding: 20px 0;
+    
+    font-size: 25px; 
+}
+.button1 { font-size:15px; 
+    color: black;  
+    padding: 5px; 
+    border-radius: 12px;
+    padding: 6px 6px 6px 10px
+}
+.button1 { 
+    transition-duration: 0.6s;
+}
+
+.button1:hover { background-color:black;
+    color: white; 
+}
+body p{
+    font-size: 25px;
+}
+body h5{
+    font-size: 25px;
+}
+.post5 {
+      filter: drop-shadow(2px 4px 6px black);
+    padding: 40px 15px 15px 95px;
+    border-radius: 25px;
+    width: 1000px;
+}

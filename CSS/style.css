@@ -1,0 +1,47 @@
+body{
+    background: #C1B7BB;
+}
+
+
+.menyja {
+    width: 100%;
+    
+    border: lawngreen; 
+    
+    padding: 10px 15px 10px 150px;
+    background: #8A8386; 
+    font-size: 20px; }
+
+.menyja a { 
+    font-size: 25px;
+    
+    color:black;
+    padding-right: 60px;
+}
+
+.menyja a:hover {
+    
+    color: silver;
+}
+
+
+.post1 { 
+    
+    filter: drop-shadow(2px 4px 6px black);
+    padding: 40px 15px 15px 95px;
+    border-radius: 25px;
+    width: 1000px;
+}
+
+body p{
+    font-size: 25px;
+}
+body h5{
+    font-size: 25px;
+}
+
+h1 {
+    padding:  1px 1px 1px 91px;
+}
+
+
